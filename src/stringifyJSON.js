@@ -55,6 +55,4 @@ var stringifyJSON = function(obj) {
   }
 };
 
-
-
 // [1, 2, 3]
